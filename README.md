@@ -1,0 +1,2 @@
+# IMTalker_Personaplex_emotion_v1
+try to add emotion in this repo code: -n_IMTalker_s_Personaplex_v2_2_aug_demo_code_add_time_nd_compress_log_v2_remove_search
